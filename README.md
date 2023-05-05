@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 US-NEXUS: Release v4 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -10,8 +10,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Username: USNEXUS<br>
+> Password: USNEXUS<br>
 <p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -39,6 +39,7 @@ https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
 One star = continuously updating multiple methods
+And This Tools Created By Us Nexus Team
 
 # Info
 - [x] Open Source
@@ -74,8 +75,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/TamimFuckersHacks/US-DDOS-V2
+cd US-DDOS-V2
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -93,20 +94,15 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
-python3 c2.py
+python3 USNEXUS.py
 ```
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
+USNEXUS☠️
+ZxCr9999👹
+USNEXUS-TEAM-MEMBERS
+ZxCDDOS-x-USNEXUSDDOS
 ```
 
 # TOS:
@@ -114,10 +110,18 @@ TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
+And Dont Attack Bangladeshi Websites 
 ```
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Help Team - Telegram: t.me/usnexuscyberforce
+CEO Admin - t.me/UsnexusFuckingE40R
+Bangladeshi Telegram Group - t.me/+EpNs2r-9bp8wZTM1
+Bangladeshi Telegram Channel - t.me/usnexushacker
+Other Country Team - (HIDDEN)
+Discord: Dynamic | TAMIM#9247
+Gmail: usnexuscyberteam@gmail.com
+Nexus mail - usnexuscyberforce@nexus.us
+Tor Browser - usnexus@63426gsyehueosgdy.onion
 ```
