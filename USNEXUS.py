@@ -1,1 +1,0 @@
-#togosobar outtki jam
